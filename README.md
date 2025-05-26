@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sutanth Kunsuraman</h1>
-<h3 align="center">💻 Software Engineering Student | 🚀 Passionate Full-Stack Developer | 🤖 Tech Enthusiast</h3>
+<h3 align="center">💻 Software Engineering Student | Passionate Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
