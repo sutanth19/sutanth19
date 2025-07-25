@@ -36,7 +36,7 @@
 ### 📫 Contact Me
 - 📧 Email: sutanthkunsuraman@gmail.com
 - 💼 LinkedIn: [Sutanth Kunsuraman](https://www.linkedin.com/in/sutanthkunsuraman)
-- 🖥️ Portfolio: SOON 
+- 🖥️ Portfolio: https://sutanthportfolio.vercel.app/
 
 ---
 
